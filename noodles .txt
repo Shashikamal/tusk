@@ -1,0 +1,9 @@
+1. Go to my mom
+2. Ask her to make noodles 
+3. If she says, "NO!"
+4.    Hug her tightly around my arms
+5.    Request her for noodles, again
+6. If she still says, "NO!"
+7.    Back to my study desk
+
+Output: Mom says, come on your noodles is ready. 
